@@ -12,6 +12,7 @@ bool Guess(int number) {
 
 int main()
 {
+   //some random comment to complete tut6
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
