@@ -12,7 +12,11 @@ bool Guess(int number) {
 
 int main()
 {
-   //some random comment to complete tut6
+    int guess;
+    do {
+        std::cin >> guess;
+    } while (!Guess(guess));
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
