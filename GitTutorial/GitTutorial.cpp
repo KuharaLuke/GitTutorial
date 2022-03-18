@@ -14,6 +14,7 @@ bool Guess(int number) {
     }
     if (number == target)
         return true;
+    //filler
     return false;
 }
 
